@@ -7,7 +7,7 @@ In constants.py, you can vary many parameters such as: the inclination
 of the satellite trajectory relative to the equator, the position and 
 size of the area on the sphere (on the ground), with which we want to 
 know the time and coordinates of the satellite crossing, the satellite's 
-distance from the earth, the angular velocity of the earth.
+distance from the earth, the angular velocity of the earth etc.
 
 intersection.py counts the time and coordinates of the intersection of
 the satellite track with the selected area on the sphere (on the Earth).
